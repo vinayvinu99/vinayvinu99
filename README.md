@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Currently working in COGNIZANT TECHNOLOGY SOLUTIONS AS A SOFTWARE ENGINEER.
+
 <!--
 **vinayvinu99/vinayvinu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
