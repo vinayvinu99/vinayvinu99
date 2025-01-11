@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Currently working in COGNIZANT TECHNOLOGY SOLUTIONS AS A SOFTWARE ENGINEER.
-
+<!doctype html>
 <html>
   <body>
     <p style="color:red;">vinay</p>
