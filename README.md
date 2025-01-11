@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 I'm Currently working in COGNIZANT TECHNOLOGY SOLUTIONS AS A SOFTWARE ENGINEER.
+
 <html>
   <body>
-    <marquee>hello </marquee>
+    <p style:"color=red">vinay</p>
   </body>
 </html>
 
