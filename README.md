@@ -4,7 +4,7 @@ I'm Currently working in COGNIZANT TECHNOLOGY SOLUTIONS AS A SOFTWARE ENGINEER.
 
 <html>
   <body>
-    <p style="color:red">vinay</p>
+    <p style="color:red;">vinay</p>
   </body>
 </html>
 
