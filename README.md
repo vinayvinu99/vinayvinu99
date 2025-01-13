@@ -1,12 +1,8 @@
 ## Hi there 👋
 
 I'm Currently working in COGNIZANT TECHNOLOGY SOLUTIONS AS A SOFTWARE ENGINEER.
-<!doctype html>
-<html>
-  <body>
-    <p style="color:red;">vinay</p>
-  </body>
-</html>
+
+
 
 <!--
 **vinayvinu99/vinayvinu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
